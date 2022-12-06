@@ -8,7 +8,7 @@ arch:
   - aarch64
   - amd64
   - armv7
-
+codenotary: codenotary@frenck.dev
 services:
   - mqtt:need
 
